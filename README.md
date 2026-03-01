@@ -11,5 +11,10 @@
 
 ### 2. Medical Cost Prediction (Linear/Ridge Regression, Polynomial features) 🏠
 * **Сипаттама:** Пациенттің параметрлеріне (жасы, BMI, шылым шегуі) қарап, оның медициналық сақтандыру шығындарын болжайтын модель.
-* **Технологиялар:** Scikit-learn, Pandas, Joblib.
+* **Технологиялар:** Scikit-learn, Pandas, Joblib, Matplotlib, Seaborn.
 * **Қолданылуы:** [Сілтеме осы папкаға](./02-Medical-Cost-Prediction/)
+
+### 3. Heart Disease Classification (Logistic Regression) 🩺
+* **Сипаттама:** Пациенттің медициналық көрсеткіштеріне (жасы, қан қысымы, холестерин деңгейі) сүйене отырып, жүрек ауруының бар-жоғын және оның ықтималдығын болжайтын классификациялық модель.
+* **Технологиялар:** Scikit-learn, Pandas, Joblib, Matplotlib, Seaborn.
+* **Қолданылуы:** [Сілтеме осы папкаға](./03-Heart-Disease-Prediction/)
